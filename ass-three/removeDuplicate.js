@@ -16,5 +16,5 @@ function removeDuplicate(arr) {
 }
 
 const input = [1, 2, 2, 3, 3, 4, 5, 5];
-const output = removeDuplicate(input);
-console.log(output);
+const result = removeDuplicate(input);
+console.log(result);
